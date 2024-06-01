@@ -1,0 +1,11 @@
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Communication\bin\Debug\net8.0\Task.Communication.deps.json
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Communication\bin\Debug\net8.0\Task.Communication.dll
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Communication\bin\Debug\net8.0\Task.Communication.pdb
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Communication\obj\Debug\net8.0\Task.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Communication\obj\Debug\net8.0\Task.Communication.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Communication\obj\Debug\net8.0\Task.Communication.AssemblyInfo.cs
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Communication\obj\Debug\net8.0\Task.Communication.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Communication\obj\Debug\net8.0\Task.Communication.dll
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Communication\obj\Debug\net8.0\refint\Task.Communication.dll
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Communication\obj\Debug\net8.0\Task.Communication.pdb
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Communication\obj\Debug\net8.0\ref\Task.Communication.dll

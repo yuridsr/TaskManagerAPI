@@ -1,0 +1,15 @@
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\bin\Debug\net8.0\Task.Application.deps.json
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\bin\Debug\net8.0\Task.Application.dll
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\bin\Debug\net8.0\Task.Application.pdb
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\bin\Debug\net8.0\Task.Communication.dll
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\bin\Debug\net8.0\Task.Communication.pdb
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\obj\Debug\net8.0\Task.Application.csproj.AssemblyReference.cache
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\obj\Debug\net8.0\Task.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\obj\Debug\net8.0\Task.Application.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\obj\Debug\net8.0\Task.Application.AssemblyInfo.cs
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\obj\Debug\net8.0\Task.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\obj\Debug\net8.0\Task.App.9AA99ABD.Up2Date
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\obj\Debug\net8.0\Task.Application.dll
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\obj\Debug\net8.0\refint\Task.Application.dll
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\obj\Debug\net8.0\Task.Application.pdb
+C:\Users\User\Documents\DOC_CURSOS\C#\C# Rocketseat\NIVEL4\TaskManager\Task.Application\obj\Debug\net8.0\ref\Task.Application.dll
